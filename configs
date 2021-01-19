@@ -1,0 +1,4 @@
+[DEFAULT]
+backup_root:/share/media/apps/backups/ 
+directories:./settings/directories
+; delay_in_ms:1
